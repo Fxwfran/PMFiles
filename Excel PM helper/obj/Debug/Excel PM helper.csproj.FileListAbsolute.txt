@@ -1,0 +1,28 @@
+c:\users\franco.rodriguez\documents\visual studio 2017\Projects\Excel PM helper\Excel PM helper\bin\Debug\Excel PM helper.exe.config
+c:\users\franco.rodriguez\documents\visual studio 2017\Projects\Excel PM helper\Excel PM helper\bin\Debug\Excel PM helper.exe
+c:\users\franco.rodriguez\documents\visual studio 2017\Projects\Excel PM helper\Excel PM helper\bin\Debug\Excel PM helper.pdb
+c:\users\franco.rodriguez\documents\visual studio 2017\Projects\Excel PM helper\Excel PM helper\bin\Debug\MahApps.Metro.dll
+c:\users\franco.rodriguez\documents\visual studio 2017\Projects\Excel PM helper\Excel PM helper\bin\Debug\System.Windows.Interactivity.dll
+c:\users\franco.rodriguez\documents\visual studio 2017\Projects\Excel PM helper\Excel PM helper\bin\Debug\MahApps.Metro.xml
+c:\users\franco.rodriguez\documents\visual studio 2017\Projects\Excel PM helper\Excel PM helper\obj\Debug\Excel PM helper.csprojResolveAssemblyReference.cache
+c:\users\franco.rodriguez\documents\visual studio 2017\Projects\Excel PM helper\Excel PM helper\obj\Debug\MainWindow.baml
+c:\users\franco.rodriguez\documents\visual studio 2017\Projects\Excel PM helper\Excel PM helper\obj\Debug\App.baml
+c:\users\franco.rodriguez\documents\visual studio 2017\Projects\Excel PM helper\Excel PM helper\obj\Debug\MainWindow.g.cs
+c:\users\franco.rodriguez\documents\visual studio 2017\Projects\Excel PM helper\Excel PM helper\obj\Debug\App.g.cs
+c:\users\franco.rodriguez\documents\visual studio 2017\Projects\Excel PM helper\Excel PM helper\obj\Debug\Excel PM helper_MarkupCompile.cache
+c:\users\franco.rodriguez\documents\visual studio 2017\Projects\Excel PM helper\Excel PM helper\obj\Debug\Excel PM helper.g.resources
+c:\users\franco.rodriguez\documents\visual studio 2017\Projects\Excel PM helper\Excel PM helper\obj\Debug\Excel_PM_helper.Properties.Resources.resources
+c:\users\franco.rodriguez\documents\visual studio 2017\Projects\Excel PM helper\Excel PM helper\obj\Debug\Excel PM helper.csproj.GenerateResource.Cache
+c:\users\franco.rodriguez\documents\visual studio 2017\Projects\Excel PM helper\Excel PM helper\obj\Debug\Excel PM helper.exe
+c:\users\franco.rodriguez\documents\visual studio 2017\Projects\Excel PM helper\Excel PM helper\obj\Debug\Excel PM helper.pdb
+c:\users\franco.rodriguez\documents\visual studio 2017\Projects\Excel PM helper\Excel PM helper\bin\Debug\EPPlus.dll
+c:\users\franco.rodriguez\documents\visual studio 2017\Projects\Excel PM helper\Excel PM helper\bin\Debug\EPPlus.xml
+C:\Users\franco.rodriguez\documents\visual studio 2017\Projects\Excel PM helper\Excel PM helper\bin\Debug\MahApps.Metro.pdb
+C:\Users\franco.rodriguez\documents\visual studio 2017\Projects\Excel PM helper\Excel PM helper\obj\Debug\Resources\Icons.baml
+C:\Users\franco.rodriguez\documents\visual studio 2017\Projects\Excel PM helper\Excel PM helper\obj\Debug\Resources\IconsNonShared.baml
+C:\Users\franco.rodriguez\documents\visual studio 2017\Projects\Excel PM helper\Excel PM helper\bin\Debug\MahApps.Metro.IconPacks.dll
+C:\Users\franco.rodriguez\documents\visual studio 2017\Projects\Excel PM helper\Excel PM helper\bin\Debug\MahApps.Metro.IconPacks.FontAwesome.dll
+C:\Users\franco.rodriguez\documents\visual studio 2017\Projects\Excel PM helper\Excel PM helper\bin\Debug\MahApps.Metro.IconPacks.pdb
+C:\Users\franco.rodriguez\documents\visual studio 2017\Projects\Excel PM helper\Excel PM helper\bin\Debug\MahApps.Metro.IconPacks.xml
+C:\Users\franco.rodriguez\documents\visual studio 2017\Projects\Excel PM helper\Excel PM helper\bin\Debug\MahApps.Metro.IconPacks.FontAwesome.pdb
+C:\Users\franco.rodriguez\documents\visual studio 2017\Projects\Excel PM helper\Excel PM helper\bin\Debug\MahApps.Metro.IconPacks.FontAwesome.xml
